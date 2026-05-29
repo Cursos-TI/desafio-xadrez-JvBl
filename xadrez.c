@@ -19,7 +19,6 @@ int main(){
         printf("Movendo para direita.\n"); //Faz com que eecute a 2° movimentação necessária.
     }
 
-
     //Movimentação da Torre
 
     printf("===== Movimentação da Torre =====\n");
